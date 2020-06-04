@@ -1,2 +1,2 @@
-# emeorex
+# eleorex
 Company Project
